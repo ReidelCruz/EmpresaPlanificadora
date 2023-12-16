@@ -4,11 +4,11 @@ Empece desarrollando un plantuml de las clases con sus relaciones entre si y me 
 
 
 En la aplicación una interfaz fácil de usar:
-![image](https://github.com/ReidelCruz/EmpresaPlanificadora/blob/main/Imagenes/interfaz.jpg)
+
 
 Cree varios caso de uso como:
 1-Introducir Producto:
-![image](https://github.com/ReidelCruz/EmpresaPlanificadora/blob/main/Imagenes/Introducir%20Producto.jpg)
+
 2-Modificar producto:
 
 3-Eliminar producto:
